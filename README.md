@@ -1,4 +1,4 @@
-# Beginner-codes-part2-
+# Beginner-codes
 
 
 ## English (US) 🇺🇸
