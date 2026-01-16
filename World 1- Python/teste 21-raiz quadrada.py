@@ -1,7 +1,11 @@
-'''import math
+import math
+
+#1° FORMA:
 num= float(input('Digíte um númrero:'))
 raiz= math.sqrt(num)
-print (f'A raiz de {num} é {raiz:.1f}')'''
+print (f'A raiz de {num} é {raiz:.1f}')
+
+#2° FORMA:
 
 n1= float(input('Escolha um número:'))
 n2= n1 ** (1/2)
