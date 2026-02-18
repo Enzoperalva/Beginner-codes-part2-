@@ -21,7 +21,7 @@ for i, a in enumerate(ficha):
     print(f'{i:<4}{a[0]:<10}{a[2]:<8.1f}')
 while True:
     print('_'*35)
-    opc= int(input('MOstrar notas de qual aluno? (999 interrompe)'))
+    opc= int(input('Mostrar notas de qual aluno? (999 interrompe)'))
     if opc==999:
         break
     if opc <=len(ficha)-1:
