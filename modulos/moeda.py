@@ -1,16 +1,18 @@
 def aumentar(n,por):
-    tot= n * (por/100)
-    return n+tot
+    res = n + (n * (por/100))
+    return res
 
 
 def diminuir(n, por):
-    tot= n* (por / 100)
-    return n- tot
+    res=n - (n* (por / 100))
+    return res
 
 
 def dobro(n):
-    return n * 2
+    res = n * 2
+    return res
 
 
 def metdade(n):
-    return n / 2
+    res = n / 2
+    return res

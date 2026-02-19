@@ -1,4 +1,4 @@
-from uteis import numeros
+from utilidadescev import numeros
 num = int(input('Digíte o valor: '))
 fat = numeros.fatorial(num)
 print(f'O fatorial de {num} é {fat}')
